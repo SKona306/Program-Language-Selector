@@ -1,25 +1,25 @@
 header {
-  display:flex;
-  flex-direction:column;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height:100vh;
-  width:100vw;
-  background-image:url("../img/lighter-bg.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../img/lighter-bg.jpg");
   background-repeat: no-repeat;
-  object-fit:cover;
+  object-fit: cover;
   color:black;
   font-family: 'Dela Gothic One', cursive;
 }
 
 .container {
-  padding:1em;
+  padding: 1em;
 }
 
 #results {
-  height:30vh;
-  width:100vw;
-  border-top:1px solid black;
+  height: 30vh;
+  width: 100vw;
+  border-top: 1px solid black;
   padding: 1em;
   background-color: burlywood;
 }
@@ -29,6 +29,10 @@ header {
 }
 
 #final-results {
-  display:none;
+  display: none;
 }
 
+.links {
+  display: flex;
+  flex-direction: column;
+}
