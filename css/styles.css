@@ -9,6 +9,7 @@ header {
   background-repeat: no-repeat;
   object-fit:cover;
   color:black;
+  font-family: 'Dela Gothic One', cursive;
 }
 
 .container {
