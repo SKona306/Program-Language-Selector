@@ -24,18 +24,11 @@ header {
   background-color: burlywood;
 }
 
-#js {
+#more-info {
+  background-color: burlywood;
+}
+
+#final-results {
   display:none;
 }
 
-#c-sharp {
-  display:none;
-}
-
-#ruby {
-  display:none;
-}
-
-#sql {
-  display:none;
-}
