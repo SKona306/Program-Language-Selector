@@ -15,6 +15,12 @@ $(document).ready(function() {
     }else if (result >= 10 && result <= 13){
       $(".language").text("C#");
       $("#final-results").show();
+    }else if (result >= 14 && result <= 16){
+      $(".language").text("Ruby");
+      $("#final-results").show();
+    }else if (result >= 17){
+      $(".language").text("SQL");
+      $("#final-results").show();
     }
   });
 });
