@@ -19,7 +19,6 @@ header {
 #results {
   height: 30vh;
   width: 100vw;
-  border-top: 1px solid black;
   padding: 1em;
   background-color: burlywood;
 }
